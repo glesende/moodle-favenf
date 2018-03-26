@@ -66181,9 +66181,9 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.ufv",
-    "appname": "Universidad Favaloro",
-    "desktopappname": "Universidad Favaloro",
+    "app_id" : "com.moodle.fve",
+    "appname": "Campus Favaloro Enfermería",
+    "desktopappname": "Campus Favaloro Enfermería",
     "versioncode" : "1111",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
@@ -66193,9 +66193,9 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://favaloro.tucampus.org/",
+    "siteurl": "http://favaloro-enfermeria.tucampus.org",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://favaloro.tucampus.org/mod/page/view.php?id=13402"
+    "privacypolicy": "http://favaloro-enfermeria.tucampus.org/mod/page/view.php?id=68"
 }
 );

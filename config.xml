@@ -2,12 +2,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.ufv"
+        id        = "com.moodle.fve"
         versionCode = "1111"
         version   = "1.0.0">
-    <name>Universidad Favaloro</name>
+    <name>Campus Favaloro Enfermería</name>
 
-    <description>Campus de Universidad Favaloro</description>
+    <description>Campus del Departamento de Enfermería de la Fundación Favaloro</description>
 
     <author href="http://entornos.net" email="info@entornos.com.ar">Entornos Educativos</author>
 
